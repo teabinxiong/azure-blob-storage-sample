@@ -1,4 +1,4 @@
-# DotNET Result Pattern sample
+# DotNET Azire Blob SDK sample
 This project aims to demonstrate the usage of Azure Blob SDK to upload and download file in an .NET project
 
 ## Author
